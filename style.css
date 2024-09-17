@@ -234,6 +234,10 @@ main .container .left .profile {
     padding: 1rem 0;
 }
 
+#notifications:hover .notifications-popup {
+    display: block;
+}
+
 /* Notification Popup */
 .left .notifications-popup {
     position: absolute;
